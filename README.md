@@ -14,6 +14,4 @@ A concise repository for the AI-Powered Decentralized Smart Grid project.
 
    ```bash
    git clone https://github.com/yourusername/smart-grid-decentralized.git
-2. Build firmware:
 
-cd src && make
