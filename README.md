@@ -6,7 +6,7 @@ A concise repository for the AI-Powered Decentralized Smart Grid project.
 
 - **docs/Project_Report.pdf**: Full project report.
 - **src/**: Embedded firmware source.
-- **samples/DEMO_VIDEO.md**: Link and instructions for the output video.
+- **DEMO_VIDEO.md**: Link and instructions for the output video.
 
 ## Quick Start
 
